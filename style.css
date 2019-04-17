@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+div {
+    background-color: rgb(245, 238, 238);
+    width: 48px;
+    height: 48px;
+    border-radius: 5px;
+}
+
+/* id */
+#conteiner {
+    min-height: 300px;
+    min-width: 400px;
+}
+#conteiner ul .itens{
+    width: 48px;
+    height: 48px;
+    margin-right: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgb(163, 182, 167);
+}
